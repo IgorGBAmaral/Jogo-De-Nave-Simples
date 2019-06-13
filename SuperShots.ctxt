@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SuperShots
+comment0.text=\n\ Write\ a\ description\ of\ class\ SuperShots\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=SuperShots()
+comment3.params=
+comment3.target=int\ getAmmo()
+comment4.params=x
+comment4.target=void\ setAmmo(int)
+comment5.params=
+comment5.target=void\ increaseAmmo()
+comment6.params=
+comment6.target=void\ movement()
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ship
+comment0.text=\n\ Write\ a\ description\ of\ class\ Ship\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Ship()
+comment3.params=
+comment3.target=void\ movement()
+comment4.params=
+comment4.target=void\ shot()
+comment5.params=
+comment5.target=void\ shotSuper()
+comment6.params=
+comment6.target=void\ touchingAmmo()
+comment7.params=
+comment7.target=void\ damage()
+comment8.params=
+comment8.target=void\ checkHealthPoints()
+comment9.params=
+comment9.target=int\ getHealthPoints()
+numComments=10
