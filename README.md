@@ -12,3 +12,15 @@
 - Para que seu jogo seja pouco previsível, você deve incorporar comportamentos aleatórios, seja para movimentação dos atores, - para a aparição de novos personagens no mundo, ou alguma outra situação;
 - O jogo deve implementar um sistema de temporização;
 - O jogo deve utilizar detecção de colisão. Isso é importante para implementar a interação entre atores no jogo.
+
+![N|Solid](https://i.imgur.com/ZDeRDPk.png)
+
+- O sol vai descendo ao longo do jogo, ao fim do timer, o sol se põe na parte inferior da tela
+- Caso o Score atinja 200 pontos, o jogador ganha mostrando uma tela de vitória
+- Caso o HP chegue a zero, o jogador perde, mostrando uma tela de game over
+- Cada inimigo derrotado aumenta 10 pontos no Score
+- Os inimigos andam em zigue-zague, aparecendo de lugares aleatórios na tela
+- Os inimigos atiram, fazendo o jogador perder 1 de HP caso sejam atinjidos
+- Periodicamente uma estrela amarela aparece, e caso seja obtida, o jogador ganha uma Super Ammo (img 2)
+
+![N|Solid](https://i.imgur.com/zYbr7bH.png)
